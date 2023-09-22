@@ -1,0 +1,13 @@
+.Xil/
+.nfs*
+.vscode/
+.DS_Store
+
+obj_dir/
+a.out
+
+*.vcd
+*.fst
+
+constrs/
+vivado/
